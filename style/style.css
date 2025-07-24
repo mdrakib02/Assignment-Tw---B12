@@ -2,3 +2,64 @@
   font-family: "Noto Serif", serif;
   font-optical-sizing: auto;
 }
+
+
+/* #grid-area1 {
+  grid-area: sixty;
+}
+#grid-area2 {
+  grid-area: Thirty;
+}
+#grid-area3 {
+  grid-area: twentyFive;
+}
+
+.Offer-section {
+  display: grid;
+  grid-template-areas:
+    "sixty   twentyFive   twentyFive"
+    "Thirty  twentyFive   twentyFive";
+}
+
+.card-one {
+  border-radius: 8px;
+  overflow: hidden;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../assets/deal-bloom.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+.card-two {
+  border-radius: 8px;
+  overflow: hidden;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../assets/deal-bloom.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+.card-three {
+  border-radius: 8px;
+  overflow: hidden;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../assets/deal-bloom.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+} */
